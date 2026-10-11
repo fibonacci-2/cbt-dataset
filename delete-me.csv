@@ -1,0 +1,885 @@
+,qid,client_statement
+0,ex01_1_a_1,"[Afraid] I’ve had bad experiences in therapy before. My last therapist tried to make me talk
+about and visualize my past traumas. I ended up in the hospital! How can I know that I can
+trust you?"
+1,ex01_1_a_1,"[Afraid] I’ve had bad experiences in therapy before. My last therapist tried to make me talk
+about and visualize my past traumas. I ended up in the hospital! How can I know that I can
+trust you?"
+2,ex01_1_a_1,"[Afraid] I’ve had bad experiences in therapy before. My last therapist tried to make me talk
+about and visualize my past traumas. I ended up in the hospital! How can I know that I can
+trust you?"
+3,ex01_1_a_1,"[Afraid] I’ve had bad experiences in therapy before. My last therapist tried to make me talk
+about and visualize my past traumas. I ended up in the hospital! How can I know that I can
+trust you?"
+4,ex01_1_a_2,"[Helpless] I was abused when I was a child, and recently I can’t stop thinking about it.
+My boyfriend tries to help me be positive, but I can’t stop feeling depressed. Sometimes
+I think it would be easier for everyone if I was dead."
+5,ex01_1_a_2,"[Helpless] I was abused when I was a child, and recently I can’t stop thinking about it.
+My boyfriend tries to help me be positive, but I can’t stop feeling depressed. Sometimes
+I think it would be easier for everyone if I was dead."
+6,ex01_1_a_2,"[Helpless] I was abused when I was a child, and recently I can’t stop thinking about it.
+My boyfriend tries to help me be positive, but I can’t stop feeling depressed. Sometimes
+I think it would be easier for everyone if I was dead."
+7,ex01_1_a_2,"[Helpless] I was abused when I was a child, and recently I can’t stop thinking about it.
+My boyfriend tries to help me be positive, but I can’t stop feeling depressed. Sometimes
+I think it would be easier for everyone if I was dead."
+8,ex01_1_a_3,"[Angry] My doctor said I have to come see you about my “anger problem.” Sometimes
+when I get really angry, I lose control and hit people. I just get so angry when people say
+stupid things! Are you sure that you will be able to help me with this?"
+9,ex01_1_a_3,"[Angry] My doctor said I have to come see you about my “anger problem.” Sometimes
+when I get really angry, I lose control and hit people. I just get so angry when people say
+stupid things! Are you sure that you will be able to help me with this?"
+10,ex01_1_a_3,"[Angry] My doctor said I have to come see you about my “anger problem.” Sometimes
+when I get really angry, I lose control and hit people. I just get so angry when people say
+stupid things! Are you sure that you will be able to help me with this?"
+11,ex01_1_a_3,"[Angry] My doctor said I have to come see you about my “anger problem.” Sometimes
+when I get really angry, I lose control and hit people. I just get so angry when people say
+stupid things! Are you sure that you will be able to help me with this?"
+12,ex01_1_b_1,[Curious] Is this approach helpful for people like me?
+13,ex01_1_b_1,[Curious] Is this approach helpful for people like me?
+14,ex01_1_b_1,[Curious] Is this approach helpful for people like me?
+15,ex01_1_b_1,[Curious] Is this approach helpful for people like me?
+16,ex01_1_b_3,[Nervous] I’ve never been in therapy before. What do we talk about here?
+17,ex01_1_b_3,[Nervous] I’ve never been in therapy before. What do we talk about here?
+18,ex01_1_b_3,[Nervous] I’ve never been in therapy before. What do we talk about here?
+19,ex01_1_b_3,[Nervous] I’ve never been in therapy before. What do we talk about here?
+20,ex01_1_b_4,[Nervous] I’ve never been in therapy before. Do we just talk about my past or upbringing?
+21,ex01_1_b_4,[Nervous] I’ve never been in therapy before. Do we just talk about my past or upbringing?
+22,ex01_1_b_4,[Nervous] I’ve never been in therapy before. Do we just talk about my past or upbringing?
+23,ex01_1_b_4,[Nervous] I’ve never been in therapy before. Do we just talk about my past or upbringing?
+24,ex01_1_m_1,[Confused] I’m not sure I understand how talking about my feelings will help.
+25,ex01_1_m_1,[Confused] I’m not sure I understand how talking about my feelings will help.
+26,ex01_1_m_1,[Confused] I’m not sure I understand how talking about my feelings will help.
+27,ex01_1_m_1,[Confused] I’m not sure I understand how talking about my feelings will help.
+28,ex01_1_m_2,"[Nervous] I have a hard time with organization, so I’m worried about doing all of the
+homework correctly."
+29,ex01_1_m_2,"[Nervous] I have a hard time with organization, so I’m worried about doing all of the
+homework correctly."
+30,ex01_1_m_2,"[Nervous] I have a hard time with organization, so I’m worried about doing all of the
+homework correctly."
+31,ex01_1_m_2,"[Nervous] I have a hard time with organization, so I’m worried about doing all of the
+homework correctly."
+32,ex01_1_m_4,"[Nervous] The things that you’re saying make sense. I can see how this way of working
+would be helpful to other people, but I’m not sure it is a good fit for me."
+33,ex01_1_m_4,"[Nervous] The things that you’re saying make sense. I can see how this way of working
+would be helpful to other people, but I’m not sure it is a good fit for me."
+34,ex01_1_m_4,"[Nervous] The things that you’re saying make sense. I can see how this way of working
+would be helpful to other people, but I’m not sure it is a good fit for me."
+35,ex01_1_m_4,"[Nervous] The things that you’re saying make sense. I can see how this way of working
+would be helpful to other people, but I’m not sure it is a good fit for me."
+36,ex01_1_m_5,"[Afraid] I’ve had bad experiences in therapy before, and I’m unsure if it’s really helpful. How
+is this going to be different?"
+37,ex01_1_m_5,"[Afraid] I’ve had bad experiences in therapy before, and I’m unsure if it’s really helpful. How
+is this going to be different?"
+38,ex01_1_m_5,"[Afraid] I’ve had bad experiences in therapy before, and I’m unsure if it’s really helpful. How
+is this going to be different?"
+39,ex01_1_m_5,"[Afraid] I’ve had bad experiences in therapy before, and I’m unsure if it’s really helpful. How
+is this going to be different?"
+40,ex01_1_m_6,[Impatient] How long will it take for this to work? I don’t have a lot of time or money.
+41,ex01_1_m_6,[Impatient] How long will it take for this to work? I don’t have a lot of time or money.
+42,ex01_1_m_6,[Impatient] How long will it take for this to work? I don’t have a lot of time or money.
+43,ex01_1_m_6,[Impatient] How long will it take for this to work? I don’t have a lot of time or money.
+44,ex02_2_a_1,[Impatient] I think there’s a problem with my brain and I might just need medication.
+45,ex02_2_a_1,[Impatient] I think there’s a problem with my brain and I might just need medication.
+46,ex02_2_a_1,[Impatient] I think there’s a problem with my brain and I might just need medication.
+47,ex02_2_a_1,[Impatient] I think there’s a problem with my brain and I might just need medication.
+48,ex02_2_a_2,"[Irritated] I can’t commit to coming in here each week. My schedule is unpredictable,
+and I don’t have a car."
+49,ex02_2_a_2,"[Irritated] I can’t commit to coming in here each week. My schedule is unpredictable,
+and I don’t have a car."
+50,ex02_2_a_2,"[Irritated] I can’t commit to coming in here each week. My schedule is unpredictable,
+and I don’t have a car."
+51,ex02_2_a_2,"[Irritated] I can’t commit to coming in here each week. My schedule is unpredictable,
+and I don’t have a car."
+52,ex02_2_a_3,"[Irritated] I don’t think this is going to work, so I’m not sure setting goals matters."
+53,ex02_2_a_3,"[Irritated] I don’t think this is going to work, so I’m not sure setting goals matters."
+54,ex02_2_a_3,"[Irritated] I don’t think this is going to work, so I’m not sure setting goals matters."
+55,ex02_2_a_3,"[Irritated] I don’t think this is going to work, so I’m not sure setting goals matters."
+56,ex02_2_a_4,"[Angry] You just need goals to write down for the insurance companies so you get paid
+for this."
+57,ex02_2_a_4,"[Angry] You just need goals to write down for the insurance companies so you get paid
+for this."
+58,ex02_2_a_4,"[Angry] You just need goals to write down for the insurance companies so you get paid
+for this."
+59,ex02_2_a_4,"[Angry] You just need goals to write down for the insurance companies so you get paid
+for this."
+60,ex02_2_b_2,[Curious] Geez. I don’t even know where to start in picturing my happiness.
+61,ex02_2_b_2,[Curious] Geez. I don’t even know where to start in picturing my happiness.
+62,ex02_2_b_2,[Curious] Geez. I don’t even know where to start in picturing my happiness.
+63,ex02_2_b_2,[Curious] Geez. I don’t even know where to start in picturing my happiness.
+64,ex02_2_b_3,[Nervous] I just don’t want to feel anxious anymore. I’m tired of it.
+65,ex02_2_b_3,[Nervous] I just don’t want to feel anxious anymore. I’m tired of it.
+66,ex02_2_b_3,[Nervous] I just don’t want to feel anxious anymore. I’m tired of it.
+67,ex02_2_b_3,[Nervous] I just don’t want to feel anxious anymore. I’m tired of it.
+68,ex02_2_b_4,[Curious] How long will this take?
+69,ex02_2_b_4,[Curious] How long will this take?
+70,ex02_2_b_4,[Curious] How long will this take?
+71,ex02_2_b_4,[Curious] How long will this take?
+72,ex02_2_b_5,"[Nervous] You’re the expert, so I’ll defer to what you think is best."
+73,ex02_2_b_5,"[Nervous] You’re the expert, so I’ll defer to what you think is best."
+74,ex02_2_b_5,"[Nervous] You’re the expert, so I’ll defer to what you think is best."
+75,ex02_2_b_5,"[Nervous] You’re the expert, so I’ll defer to what you think is best."
+76,ex02_2_m_2,[Confused] I’m not sure I want to do homework or exercises in here.
+77,ex02_2_m_2,[Confused] I’m not sure I want to do homework or exercises in here.
+78,ex02_2_m_2,[Confused] I’m not sure I want to do homework or exercises in here.
+79,ex02_2_m_2,[Confused] I’m not sure I want to do homework or exercises in here.
+80,ex02_2_m_3,[Weeping] I just can’t imagine anything changing. I feel so hopeless.
+81,ex02_2_m_3,[Weeping] I just can’t imagine anything changing. I feel so hopeless.
+82,ex02_2_m_3,[Weeping] I just can’t imagine anything changing. I feel so hopeless.
+83,ex02_2_m_3,[Weeping] I just can’t imagine anything changing. I feel so hopeless.
+84,ex02_2_m_4,[Anxious] I don’t think I want to do any exposure.
+85,ex02_2_m_4,[Anxious] I don’t think I want to do any exposure.
+86,ex02_2_m_4,[Anxious] I don’t think I want to do any exposure.
+87,ex02_2_m_4,[Anxious] I don’t think I want to do any exposure.
+88,ex02_2_m_5,"[Agitated] Honestly, my main problem is my partner."
+89,ex02_2_m_5,"[Agitated] Honestly, my main problem is my partner."
+90,ex02_2_m_5,"[Agitated] Honestly, my main problem is my partner."
+91,ex02_2_m_5,"[Agitated] Honestly, my main problem is my partner."
+92,ex02_2_m_6,"[Anxious] I want to get a job, find a new partner, lose weight, be happier and less anxious,
+be more outgoing, and work on some my grief issues."
+93,ex02_2_m_6,"[Anxious] I want to get a job, find a new partner, lose weight, be happier and less anxious,
+be more outgoing, and work on some my grief issues."
+94,ex02_2_m_6,"[Anxious] I want to get a job, find a new partner, lose weight, be happier and less anxious,
+be more outgoing, and work on some my grief issues."
+95,ex02_2_m_6,"[Anxious] I want to get a job, find a new partner, lose weight, be happier and less anxious,
+be more outgoing, and work on some my grief issues."
+96,ex03_3_a_2,"[Sad] I think our sessions have been very helpful. However, my depression is getting worse.
+On my drive to this session today. I pictured myself driving off a bridge. It honestly felt like
+a relief to imagine not having to work so hard to feel better anymore."
+97,ex03_3_a_2,"[Sad] I think our sessions have been very helpful. However, my depression is getting worse.
+On my drive to this session today. I pictured myself driving off a bridge. It honestly felt like
+a relief to imagine not having to work so hard to feel better anymore."
+98,ex03_3_a_2,"[Sad] I think our sessions have been very helpful. However, my depression is getting worse.
+On my drive to this session today. I pictured myself driving off a bridge. It honestly felt like
+a relief to imagine not having to work so hard to feel better anymore."
+99,ex03_3_a_2,"[Sad] I think our sessions have been very helpful. However, my depression is getting worse.
+On my drive to this session today. I pictured myself driving off a bridge. It honestly felt like
+a relief to imagine not having to work so hard to feel better anymore."
+100,ex03_3_a_3,"[Irritated] The agenda sounds fine, I suppose. I don’t know. I don’t think this is working,
+so I’m not sure it matters."
+101,ex03_3_a_3,"[Irritated] The agenda sounds fine, I suppose. I don’t know. I don’t think this is working,
+so I’m not sure it matters."
+102,ex03_3_a_3,"[Irritated] The agenda sounds fine, I suppose. I don’t know. I don’t think this is working,
+so I’m not sure it matters."
+103,ex03_3_a_3,"[Irritated] The agenda sounds fine, I suppose. I don’t know. I don’t think this is working,
+so I’m not sure it matters."
+104,ex03_3_a_4,"[Frustrated] To be honest, the last couple of sessions I’ve been confused by our focus on
+my challenges. My family says I should just stay positive, smile more, and not think about
+anything negative. Do we have to discuss my challenges?"
+105,ex03_3_a_4,"[Frustrated] To be honest, the last couple of sessions I’ve been confused by our focus on
+my challenges. My family says I should just stay positive, smile more, and not think about
+anything negative. Do we have to discuss my challenges?"
+106,ex03_3_a_4,"[Frustrated] To be honest, the last couple of sessions I’ve been confused by our focus on
+my challenges. My family says I should just stay positive, smile more, and not think about
+anything negative. Do we have to discuss my challenges?"
+107,ex03_3_a_4,"[Frustrated] To be honest, the last couple of sessions I’ve been confused by our focus on
+my challenges. My family says I should just stay positive, smile more, and not think about
+anything negative. Do we have to discuss my challenges?"
+108,ex03_3_a_5,"[Curious] I read an article on the internet that a new energy-healing technique can help
+people 10 times faster than CBT and is easy for therapists to learn. I brought a printout of
+the article with instructions. Can we talk about possibly trying that today?"
+109,ex03_3_a_5,"[Curious] I read an article on the internet that a new energy-healing technique can help
+people 10 times faster than CBT and is easy for therapists to learn. I brought a printout of
+the article with instructions. Can we talk about possibly trying that today?"
+110,ex03_3_a_5,"[Curious] I read an article on the internet that a new energy-healing technique can help
+people 10 times faster than CBT and is easy for therapists to learn. I brought a printout of
+the article with instructions. Can we talk about possibly trying that today?"
+111,ex03_3_a_5,"[Curious] I read an article on the internet that a new energy-healing technique can help
+people 10 times faster than CBT and is easy for therapists to learn. I brought a printout of
+the article with instructions. Can we talk about possibly trying that today?"
+112,ex03_3_b_1,[Calm] I’m not sure what to talk about today.
+113,ex03_3_b_1,[Calm] I’m not sure what to talk about today.
+114,ex03_3_b_1,[Calm] I’m not sure what to talk about today.
+115,ex03_3_b_1,[Calm] I’m not sure what to talk about today.
+116,ex03_3_b_2,"[Curious] So, what’s our agenda for today?"
+117,ex03_3_b_2,"[Curious] So, what’s our agenda for today?"
+118,ex03_3_b_2,"[Curious] So, what’s our agenda for today?"
+119,ex03_3_b_2,"[Curious] So, what’s our agenda for today?"
+120,ex03_3_b_3,[Nervous] I don’t think I’m ready for working on this today.
+121,ex03_3_b_3,[Nervous] I don’t think I’m ready for working on this today.
+122,ex03_3_b_3,[Nervous] I don’t think I’m ready for working on this today.
+123,ex03_3_b_3,[Nervous] I don’t think I’m ready for working on this today.
+124,ex03_3_b_5,"[Curious] I’m not sure about an agenda. With my other therapist, I just kind of talked about
+whatever was on my mind."
+125,ex03_3_b_5,"[Curious] I’m not sure about an agenda. With my other therapist, I just kind of talked about
+whatever was on my mind."
+126,ex03_3_b_5,"[Curious] I’m not sure about an agenda. With my other therapist, I just kind of talked about
+whatever was on my mind."
+127,ex03_3_b_5,"[Curious] I’m not sure about an agenda. With my other therapist, I just kind of talked about
+whatever was on my mind."
+128,ex03_3_m_1,"[Nervous] You’re the expert, so just tell me what to do today"
+129,ex03_3_m_1,"[Nervous] You’re the expert, so just tell me what to do today"
+130,ex03_3_m_1,"[Nervous] You’re the expert, so just tell me what to do today"
+131,ex03_3_m_1,"[Nervous] You’re the expert, so just tell me what to do today"
+132,ex03_3_m_2,"[Nervous] I know that the plan was to talk about exposure today, but something’s come up
+that I’d like to talk about first."
+133,ex03_3_m_2,"[Nervous] I know that the plan was to talk about exposure today, but something’s come up
+that I’d like to talk about first."
+134,ex03_3_m_2,"[Nervous] I know that the plan was to talk about exposure today, but something’s come up
+that I’d like to talk about first."
+135,ex03_3_m_2,"[Nervous] I know that the plan was to talk about exposure today, but something’s come up
+that I’d like to talk about first."
+136,ex03_3_m_3,[Nervous] My partner wants us to talk about something today.
+137,ex03_3_m_3,[Nervous] My partner wants us to talk about something today.
+138,ex03_3_m_3,[Nervous] My partner wants us to talk about something today.
+139,ex03_3_m_3,[Nervous] My partner wants us to talk about something today.
+140,ex03_3_m_5,[Agitated] Wow. You won’t believe what happened this week. It’s a really long story . . .
+141,ex03_3_m_5,[Agitated] Wow. You won’t believe what happened this week. It’s a really long story . . .
+142,ex03_3_m_5,[Agitated] Wow. You won’t believe what happened this week. It’s a really long story . . .
+143,ex03_3_m_5,[Agitated] Wow. You won’t believe what happened this week. It’s a really long story . . .
+144,ex04_4_a_2,[Weeping] I just don’t think I can do this homework on my own.
+145,ex04_4_a_2,[Weeping] I just don’t think I can do this homework on my own.
+146,ex04_4_a_2,[Weeping] I just don’t think I can do this homework on my own.
+147,ex04_4_a_2,[Weeping] I just don’t think I can do this homework on my own.
+148,ex04_4_a_3,"[Apprehensive] I successfully did the homework! However, it made me very nervous, so I
+had a few drinks beforehand. This is OK, right? I hope you don’t judge my drinking, like my
+wife and boss do."
+149,ex04_4_a_3,"[Apprehensive] I successfully did the homework! However, it made me very nervous, so I
+had a few drinks beforehand. This is OK, right? I hope you don’t judge my drinking, like my
+wife and boss do."
+150,ex04_4_a_3,"[Apprehensive] I successfully did the homework! However, it made me very nervous, so I
+had a few drinks beforehand. This is OK, right? I hope you don’t judge my drinking, like my
+wife and boss do."
+151,ex04_4_a_3,"[Apprehensive] I successfully did the homework! However, it made me very nervous, so I
+had a few drinks beforehand. This is OK, right? I hope you don’t judge my drinking, like my
+wife and boss do."
+152,ex04_4_a_4,"[Anxious] Whenever I have trouble motivating to do the homework, I think of how happy
+I will feel telling you that I did it. Your approval means everything to me. I honestly think
+you’re the best therapist I’ve ever met."
+153,ex04_4_a_4,"[Anxious] Whenever I have trouble motivating to do the homework, I think of how happy
+I will feel telling you that I did it. Your approval means everything to me. I honestly think
+you’re the best therapist I’ve ever met."
+154,ex04_4_a_4,"[Anxious] Whenever I have trouble motivating to do the homework, I think of how happy
+I will feel telling you that I did it. Your approval means everything to me. I honestly think
+you’re the best therapist I’ve ever met."
+155,ex04_4_a_4,"[Anxious] Whenever I have trouble motivating to do the homework, I think of how happy
+I will feel telling you that I did it. Your approval means everything to me. I honestly think
+you’re the best therapist I’ve ever met."
+156,ex04_4_a_5,"[Dismissive] I didn’t do the homework. It didn’t seem like it was that important, to be
+honest."
+157,ex04_4_a_5,"[Dismissive] I didn’t do the homework. It didn’t seem like it was that important, to be
+honest."
+158,ex04_4_a_5,"[Dismissive] I didn’t do the homework. It didn’t seem like it was that important, to be
+honest."
+159,ex04_4_a_5,"[Dismissive] I didn’t do the homework. It didn’t seem like it was that important, to be
+honest."
+160,ex04_4_b_1,[Pleased] I feel like I’m getting the hang of objective monitoring.
+161,ex04_4_b_1,[Pleased] I feel like I’m getting the hang of objective monitoring.
+162,ex04_4_b_1,[Pleased] I feel like I’m getting the hang of objective monitoring.
+163,ex04_4_b_1,[Pleased] I feel like I’m getting the hang of objective monitoring.
+164,ex04_4_b_2,"[Curious] I’m still trying to get the hang of identifying my thoughts. Should I plan for
+anything next week?"
+165,ex04_4_b_2,"[Curious] I’m still trying to get the hang of identifying my thoughts. Should I plan for
+anything next week?"
+166,ex04_4_b_2,"[Curious] I’m still trying to get the hang of identifying my thoughts. Should I plan for
+anything next week?"
+167,ex04_4_b_2,"[Curious] I’m still trying to get the hang of identifying my thoughts. Should I plan for
+anything next week?"
+168,ex04_4_b_3,"[Curious] OK, what do we do now that we’ve created an exposure hierarchy?"
+169,ex04_4_b_3,"[Curious] OK, what do we do now that we’ve created an exposure hierarchy?"
+170,ex04_4_b_3,"[Curious] OK, what do we do now that we’ve created an exposure hierarchy?"
+171,ex04_4_b_3,"[Curious] OK, what do we do now that we’ve created an exposure hierarchy?"
+172,ex04_4_b_5,"[Curious, after emotion monitoring homework was assigned at the end of the previous
+session] Where should we start today?"
+173,ex04_4_b_5,"[Curious, after emotion monitoring homework was assigned at the end of the previous
+session] Where should we start today?"
+174,ex04_4_b_5,"[Curious, after emotion monitoring homework was assigned at the end of the previous
+session] Where should we start today?"
+175,ex04_4_b_5,"[Curious, after emotion monitoring homework was assigned at the end of the previous
+session] Where should we start today?"
+176,ex04_4_m_1,[Anxious] I’m not sure I’m ready to do this on my own.
+177,ex04_4_m_1,[Anxious] I’m not sure I’m ready to do this on my own.
+178,ex04_4_m_1,[Anxious] I’m not sure I’m ready to do this on my own.
+179,ex04_4_m_1,[Anxious] I’m not sure I’m ready to do this on my own.
+180,ex04_4_m_3,"[Flustered] I actually need to be out the door right now. Is there anything that I should do
+before our next session?"
+181,ex04_4_m_3,"[Flustered] I actually need to be out the door right now. Is there anything that I should do
+before our next session?"
+182,ex04_4_m_3,"[Flustered] I actually need to be out the door right now. Is there anything that I should do
+before our next session?"
+183,ex04_4_m_3,"[Flustered] I actually need to be out the door right now. Is there anything that I should do
+before our next session?"
+184,ex04_4_m_4,[Ashamed] I did some of what we talked about last week but forgot the forms.
+185,ex04_4_m_4,[Ashamed] I did some of what we talked about last week but forgot the forms.
+186,ex04_4_m_4,[Ashamed] I did some of what we talked about last week but forgot the forms.
+187,ex04_4_m_4,[Ashamed] I did some of what we talked about last week but forgot the forms.
+188,ex04_4_m_5,[Ashamed] I was only able to do part of what we talked about last week.
+189,ex04_4_m_5,[Ashamed] I was only able to do part of what we talked about last week.
+190,ex04_4_m_5,[Ashamed] I was only able to do part of what we talked about last week.
+191,ex04_4_m_5,[Ashamed] I was only able to do part of what we talked about last week.
+192,ex04_4_m_7,[Agitated] I’m too swamped; I don’t think I’ll have the time to do any homework.
+193,ex04_4_m_7,[Agitated] I’m too swamped; I don’t think I’ll have the time to do any homework.
+194,ex04_4_m_7,[Agitated] I’m too swamped; I don’t think I’ll have the time to do any homework.
+195,ex04_4_m_7,[Agitated] I’m too swamped; I don’t think I’ll have the time to do any homework.
+196,ex05_5_a_1,"[Frustrated] My boss’s evaluation of me was devastating. I’m at a loss. There is no other
+perspective on this."
+197,ex05_5_a_1,"[Frustrated] My boss’s evaluation of me was devastating. I’m at a loss. There is no other
+perspective on this."
+198,ex05_5_a_1,"[Frustrated] My boss’s evaluation of me was devastating. I’m at a loss. There is no other
+perspective on this."
+199,ex05_5_a_1,"[Frustrated] My boss’s evaluation of me was devastating. I’m at a loss. There is no other
+perspective on this."
+200,ex05_5_a_3,"[Frustrated] Why do you just keep asking questions, over and over again? It’s really
+frustrating not to get anything more direct from you."
+201,ex05_5_a_3,"[Frustrated] Why do you just keep asking questions, over and over again? It’s really
+frustrating not to get anything more direct from you."
+202,ex05_5_a_3,"[Frustrated] Why do you just keep asking questions, over and over again? It’s really
+frustrating not to get anything more direct from you."
+203,ex05_5_a_3,"[Frustrated] Why do you just keep asking questions, over and over again? It’s really
+frustrating not to get anything more direct from you."
+204,ex05_5_a_4,"[Happy] I did what you suggested about my thoughts, and it really helped in the moment.
+Every time I had a negative thought, I just told myself the opposite."
+205,ex05_5_a_4,"[Happy] I did what you suggested about my thoughts, and it really helped in the moment.
+Every time I had a negative thought, I just told myself the opposite."
+206,ex05_5_a_4,"[Happy] I did what you suggested about my thoughts, and it really helped in the moment.
+Every time I had a negative thought, I just told myself the opposite."
+207,ex05_5_a_4,"[Happy] I did what you suggested about my thoughts, and it really helped in the moment.
+Every time I had a negative thought, I just told myself the opposite."
+208,ex05_5_a_5,"[Angry] I don’t like this or find it helpful. My thoughts aren’t irrational or baseless,
+so I actually find it kind of invalidating and insulting."
+209,ex05_5_a_5,"[Angry] I don’t like this or find it helpful. My thoughts aren’t irrational or baseless,
+so I actually find it kind of invalidating and insulting."
+210,ex05_5_a_5,"[Angry] I don’t like this or find it helpful. My thoughts aren’t irrational or baseless,
+so I actually find it kind of invalidating and insulting."
+211,ex05_5_a_5,"[Angry] I don’t like this or find it helpful. My thoughts aren’t irrational or baseless,
+so I actually find it kind of invalidating and insulting."
+212,ex05_5_a_6,"[Anxious] I know I sometimes think in extremes, but what if the worst thing actually did
+happen? It could."
+213,ex05_5_a_6,"[Anxious] I know I sometimes think in extremes, but what if the worst thing actually did
+happen? It could."
+214,ex05_5_a_6,"[Anxious] I know I sometimes think in extremes, but what if the worst thing actually did
+happen? It could."
+215,ex05_5_a_6,"[Anxious] I know I sometimes think in extremes, but what if the worst thing actually did
+happen? It could."
+216,ex05_5_b_1,"[Curious] I’m still trying to get the hang of identifying my thoughts. What should I plan for
+next week?"
+217,ex05_5_b_1,"[Curious] I’m still trying to get the hang of identifying my thoughts. What should I plan for
+next week?"
+218,ex05_5_b_1,"[Curious] I’m still trying to get the hang of identifying my thoughts. What should I plan for
+next week?"
+219,ex05_5_b_1,"[Curious] I’m still trying to get the hang of identifying my thoughts. What should I plan for
+next week?"
+220,ex05_5_b_2,[Sad] I know I’m a terrible mother.
+221,ex05_5_b_2,[Sad] I know I’m a terrible mother.
+222,ex05_5_b_2,[Sad] I know I’m a terrible mother.
+223,ex05_5_b_2,[Sad] I know I’m a terrible mother.
+224,ex05_5_b_3,[Sad] I’m a total failure.
+225,ex05_5_b_3,[Sad] I’m a total failure.
+226,ex05_5_b_3,[Sad] I’m a total failure.
+227,ex05_5_b_3,[Sad] I’m a total failure.
+228,ex05_5_b_5,[Anxious] I don’t really know anyone who will be at this party. I know I’ll be miserable.
+229,ex05_5_b_5,[Anxious] I don’t really know anyone who will be at this party. I know I’ll be miserable.
+230,ex05_5_b_5,[Anxious] I don’t really know anyone who will be at this party. I know I’ll be miserable.
+231,ex05_5_b_5,[Anxious] I don’t really know anyone who will be at this party. I know I’ll be miserable.
+232,ex05_5_m_1,"[Impatient] You talk about the importance of thoughts . . . I’m already very aware of my
+negative thoughts."
+233,ex05_5_m_1,"[Impatient] You talk about the importance of thoughts . . . I’m already very aware of my
+negative thoughts."
+234,ex05_5_m_1,"[Impatient] You talk about the importance of thoughts . . . I’m already very aware of my
+negative thoughts."
+235,ex05_5_m_1,"[Impatient] You talk about the importance of thoughts . . . I’m already very aware of my
+negative thoughts."
+236,ex05_5_m_2,"[Irritated] When we work through these thought records, it’s not hard to come up with
+alternative evidence and thoughts, but it feels artificial and doesn’t really make me
+feel better."
+237,ex05_5_m_2,"[Irritated] When we work through these thought records, it’s not hard to come up with
+alternative evidence and thoughts, but it feels artificial and doesn’t really make me
+feel better."
+238,ex05_5_m_2,"[Irritated] When we work through these thought records, it’s not hard to come up with
+alternative evidence and thoughts, but it feels artificial and doesn’t really make me
+feel better."
+239,ex05_5_m_2,"[Irritated] When we work through these thought records, it’s not hard to come up with
+alternative evidence and thoughts, but it feels artificial and doesn’t really make me
+feel better."
+240,ex05_5_m_3,[Sad] I was feeling hopeless and didn’t want to come in today.
+241,ex05_5_m_3,[Sad] I was feeling hopeless and didn’t want to come in today.
+242,ex05_5_m_3,[Sad] I was feeling hopeless and didn’t want to come in today.
+243,ex05_5_m_3,[Sad] I was feeling hopeless and didn’t want to come in today.
+244,ex05_5_m_5,"[Frustrated] I don’t know... when things get intense, I just act. I don’t have any thoughts; I just act or react."
+245,ex05_5_m_5,"[Frustrated] I don’t know... when things get intense, I just act. I don’t have any thoughts; I just act or react."
+246,ex05_5_m_5,"[Frustrated] I don’t know... when things get intense, I just act. I don’t have any thoughts; I just act or react."
+247,ex05_5_m_5,"[Frustrated] I don’t know... when things get intense, I just act. I don’t have any thoughts; I just act or react."
+248,ex06_6_a_1,"[Panicking] After touching all of the bathroom walls with millions of germs—I am going to
+wash my hands immediately! I get the point of exposure, but it’s crazy not to wash your
+hands after what we just did."
+249,ex06_6_a_1,"[Panicking] After touching all of the bathroom walls with millions of germs—I am going to
+wash my hands immediately! I get the point of exposure, but it’s crazy not to wash your
+hands after what we just did."
+250,ex06_6_a_1,"[Panicking] After touching all of the bathroom walls with millions of germs—I am going to
+wash my hands immediately! I get the point of exposure, but it’s crazy not to wash your
+hands after what we just did."
+251,ex06_6_a_1,"[Panicking] After touching all of the bathroom walls with millions of germs—I am going to
+wash my hands immediately! I get the point of exposure, but it’s crazy not to wash your
+hands after what we just did."
+252,ex06_6_a_2,"[Frustrated] You think I should set up some “little rewards” to start feeling less depressed.
+That seems kind of embarrassing and infantilizing."
+253,ex06_6_a_2,"[Frustrated] You think I should set up some “little rewards” to start feeling less depressed.
+That seems kind of embarrassing and infantilizing."
+254,ex06_6_a_2,"[Frustrated] You think I should set up some “little rewards” to start feeling less depressed.
+That seems kind of embarrassing and infantilizing."
+255,ex06_6_a_2,"[Frustrated] You think I should set up some “little rewards” to start feeling less depressed.
+That seems kind of embarrassing and infantilizing."
+256,ex06_6_a_3,"[Frustrated] You don’t understand. I can’t do these things because I’m depressed. If I
+wasn’t depressed, I could easily do these things, and I wouldn’t need to be here in the
+first place."
+257,ex06_6_a_3,"[Frustrated] You don’t understand. I can’t do these things because I’m depressed. If I
+wasn’t depressed, I could easily do these things, and I wouldn’t need to be here in the
+first place."
+258,ex06_6_a_3,"[Frustrated] You don’t understand. I can’t do these things because I’m depressed. If I
+wasn’t depressed, I could easily do these things, and I wouldn’t need to be here in the
+first place."
+259,ex06_6_a_3,"[Frustrated] You don’t understand. I can’t do these things because I’m depressed. If I
+wasn’t depressed, I could easily do these things, and I wouldn’t need to be here in the
+first place."
+260,ex06_6_a_4,"[Angry] The exposure you assigned last week was a disaster. I had a panic attack on the
+train, and everyone stared at me. So embarrassing. It’s your fault because you told me
+to do it."
+261,ex06_6_a_4,"[Angry] The exposure you assigned last week was a disaster. I had a panic attack on the
+train, and everyone stared at me. So embarrassing. It’s your fault because you told me
+to do it."
+262,ex06_6_a_4,"[Angry] The exposure you assigned last week was a disaster. I had a panic attack on the
+train, and everyone stared at me. So embarrassing. It’s your fault because you told me
+to do it."
+263,ex06_6_a_4,"[Angry] The exposure you assigned last week was a disaster. I had a panic attack on the
+train, and everyone stared at me. So embarrassing. It’s your fault because you told me
+to do it."
+264,ex06_6_b_1,"[Ashamed] I know we talked about me having that date last week. I ended up cancelling
+at the last minute. You know, I actually felt relieved."
+265,ex06_6_b_1,"[Ashamed] I know we talked about me having that date last week. I ended up cancelling
+at the last minute. You know, I actually felt relieved."
+266,ex06_6_b_1,"[Ashamed] I know we talked about me having that date last week. I ended up cancelling
+at the last minute. You know, I actually felt relieved."
+267,ex06_6_b_1,"[Ashamed] I know we talked about me having that date last week. I ended up cancelling
+at the last minute. You know, I actually felt relieved."
+268,ex06_6_b_2,[Frustrated] I don’t know why I keep blowing up at people. I just do.
+269,ex06_6_b_2,[Frustrated] I don’t know why I keep blowing up at people. I just do.
+270,ex06_6_b_2,[Frustrated] I don’t know why I keep blowing up at people. I just do.
+271,ex06_6_b_2,[Frustrated] I don’t know why I keep blowing up at people. I just do.
+272,ex06_6_b_3,"[Discouraged] I’ve still been pretty down, I guess. I spent most of the week in bed."
+273,ex06_6_b_3,"[Discouraged] I’ve still been pretty down, I guess. I spent most of the week in bed."
+274,ex06_6_b_3,"[Discouraged] I’ve still been pretty down, I guess. I spent most of the week in bed."
+275,ex06_6_b_3,"[Discouraged] I’ve still been pretty down, I guess. I spent most of the week in bed."
+276,ex06_6_b_4,"[Anxious] I’ve been working hard on keeping my drinking under control, but it’s hard.
+I’m kind of nervous because my friend insists on having his birthday party at the bar
+this weekend."
+277,ex06_6_b_4,"[Anxious] I’ve been working hard on keeping my drinking under control, but it’s hard.
+I’m kind of nervous because my friend insists on having his birthday party at the bar
+this weekend."
+278,ex06_6_b_4,"[Anxious] I’ve been working hard on keeping my drinking under control, but it’s hard.
+I’m kind of nervous because my friend insists on having his birthday party at the bar
+this weekend."
+279,ex06_6_b_4,"[Anxious] I’ve been working hard on keeping my drinking under control, but it’s hard.
+I’m kind of nervous because my friend insists on having his birthday party at the bar
+this weekend."
+280,ex06_6_m_1,"[Impatient] Wait a minute . . . you’re saying if I can’t fall asleep, then I need to get out of
+bed and stop trying to sleep?"
+281,ex06_6_m_1,"[Impatient] Wait a minute . . . you’re saying if I can’t fall asleep, then I need to get out of
+bed and stop trying to sleep?"
+282,ex06_6_m_1,"[Impatient] Wait a minute . . . you’re saying if I can’t fall asleep, then I need to get out of
+bed and stop trying to sleep?"
+283,ex06_6_m_1,"[Impatient] Wait a minute . . . you’re saying if I can’t fall asleep, then I need to get out of
+bed and stop trying to sleep?"
+284,ex06_6_m_2,"[Ashamed] Umm. After being sober for 6 months, as you know . . . I drank this week. I feel
+like such a failure."
+285,ex06_6_m_2,"[Ashamed] Umm. After being sober for 6 months, as you know . . . I drank this week. I feel
+like such a failure."
+286,ex06_6_m_2,"[Ashamed] Umm. After being sober for 6 months, as you know . . . I drank this week. I feel
+like such a failure."
+287,ex06_6_m_2,"[Ashamed] Umm. After being sober for 6 months, as you know . . . I drank this week. I feel
+like such a failure."
+288,ex06_6_m_3,"[Sad, failing to make eye contact] I guess I don’t deserve better."
+289,ex06_6_m_3,"[Sad, failing to make eye contact] I guess I don’t deserve better."
+290,ex06_6_m_3,"[Sad, failing to make eye contact] I guess I don’t deserve better."
+291,ex06_6_m_3,"[Sad, failing to make eye contact] I guess I don’t deserve better."
+292,ex06_6_m_5,[Frustrated] I cut myself this week. I don’t know why I harm myself like I do.
+293,ex06_6_m_5,[Frustrated] I cut myself this week. I don’t know why I harm myself like I do.
+294,ex06_6_m_5,[Frustrated] I cut myself this week. I don’t know why I harm myself like I do.
+295,ex06_6_m_5,[Frustrated] I cut myself this week. I don’t know why I harm myself like I do.
+296,ex07_7_a_1,[Angry] What we’re doing in here is so stupid!
+297,ex07_7_a_1,[Angry] What we’re doing in here is so stupid!
+298,ex07_7_a_1,[Angry] What we’re doing in here is so stupid!
+299,ex07_7_a_1,[Angry] What we’re doing in here is so stupid!
+300,ex07_7_a_2,[Very anxious] I feel like I’m going to have a panic attack or faint!
+301,ex07_7_a_2,[Very anxious] I feel like I’m going to have a panic attack or faint!
+302,ex07_7_a_2,[Very anxious] I feel like I’m going to have a panic attack or faint!
+303,ex07_7_a_2,[Very anxious] I feel like I’m going to have a panic attack or faint!
+304,ex07_7_a_3,"[Disgusted, looking away] Ugh. Ahh. That is disgusting! I am not looking at that or
+touching it!"
+305,ex07_7_a_3,"[Disgusted, looking away] Ugh. Ahh. That is disgusting! I am not looking at that or
+touching it!"
+306,ex07_7_a_3,"[Disgusted, looking away] Ugh. Ahh. That is disgusting! I am not looking at that or
+touching it!"
+307,ex07_7_a_3,"[Disgusted, looking away] Ugh. Ahh. That is disgusting! I am not looking at that or
+touching it!"
+308,ex07_7_a_4,"[Crying, raised voice] I can’t do this!"
+309,ex07_7_a_4,"[Crying, raised voice] I can’t do this!"
+310,ex07_7_a_4,"[Crying, raised voice] I can’t do this!"
+311,ex07_7_a_4,"[Crying, raised voice] I can’t do this!"
+312,ex07_7_a_6,[Panicking] Oh my god . . . Oh my god . . . I’m dying! I can’t breathe! Help me!
+313,ex07_7_a_6,[Panicking] Oh my god . . . Oh my god . . . I’m dying! I can’t breathe! Help me!
+314,ex07_7_a_6,[Panicking] Oh my god . . . Oh my god . . . I’m dying! I can’t breathe! Help me!
+315,ex07_7_a_6,[Panicking] Oh my god . . . Oh my god . . . I’m dying! I can’t breathe! Help me!
+316,ex07_7_b_2,[Weeping] I’m so embarrassed. I’m an ugly crier.
+317,ex07_7_b_2,[Weeping] I’m so embarrassed. I’m an ugly crier.
+318,ex07_7_b_2,[Weeping] I’m so embarrassed. I’m an ugly crier.
+319,ex07_7_b_2,[Weeping] I’m so embarrassed. I’m an ugly crier.
+320,ex07_7_b_3,"[Nervous, deflecting from exposure task] Oh, I forgot to tell you that I might be switching
+jobs. Maybe we should talk about that instead today?"
+321,ex07_7_b_3,"[Nervous, deflecting from exposure task] Oh, I forgot to tell you that I might be switching
+jobs. Maybe we should talk about that instead today?"
+322,ex07_7_b_3,"[Nervous, deflecting from exposure task] Oh, I forgot to tell you that I might be switching
+jobs. Maybe we should talk about that instead today?"
+323,ex07_7_b_3,"[Nervous, deflecting from exposure task] Oh, I forgot to tell you that I might be switching
+jobs. Maybe we should talk about that instead today?"
+324,ex07_7_b_4,"[Panicking] OK, I’m definitely feeling anxious now! Um, what’s the point of this exposure
+again? What if it doesn’t work? What if I can’t stop feeling like this? Maybe we should
+stop now."
+325,ex07_7_b_4,"[Panicking] OK, I’m definitely feeling anxious now! Um, what’s the point of this exposure
+again? What if it doesn’t work? What if I can’t stop feeling like this? Maybe we should
+stop now."
+326,ex07_7_b_4,"[Panicking] OK, I’m definitely feeling anxious now! Um, what’s the point of this exposure
+again? What if it doesn’t work? What if I can’t stop feeling like this? Maybe we should
+stop now."
+327,ex07_7_b_4,"[Panicking] OK, I’m definitely feeling anxious now! Um, what’s the point of this exposure
+again? What if it doesn’t work? What if I can’t stop feeling like this? Maybe we should
+stop now."
+328,ex07_7_b_5,"[Tearing up] I don’t even know if I’m getting any better in here. I mean, I’ve been in therapy
+for weeks and I feel the same."
+329,ex07_7_b_5,"[Tearing up] I don’t even know if I’m getting any better in here. I mean, I’ve been in therapy
+for weeks and I feel the same."
+330,ex07_7_b_5,"[Tearing up] I don’t even know if I’m getting any better in here. I mean, I’ve been in therapy
+for weeks and I feel the same."
+331,ex07_7_b_5,"[Tearing up] I don’t even know if I’m getting any better in here. I mean, I’ve been in therapy
+for weeks and I feel the same."
+332,ex07_7_m_1,"[Angry] I think I’m done with therapy . . . things aren’t that bad, and maybe I don’t want to
+change! I’ve been dealing with this my whole life and I’ve managed."
+333,ex07_7_m_1,"[Angry] I think I’m done with therapy . . . things aren’t that bad, and maybe I don’t want to
+change! I’ve been dealing with this my whole life and I’ve managed."
+334,ex07_7_m_1,"[Angry] I think I’m done with therapy . . . things aren’t that bad, and maybe I don’t want to
+change! I’ve been dealing with this my whole life and I’ve managed."
+335,ex07_7_m_1,"[Angry] I think I’m done with therapy . . . things aren’t that bad, and maybe I don’t want to
+change! I’ve been dealing with this my whole life and I’ve managed."
+336,ex07_7_m_2,"[Shaking and teary] I’m really embarrassed . . . I kind of lied to you about what I thought
+I could handle in here. I didn’t want to disappoint you or make you feel like this is a waste
+of time."
+337,ex07_7_m_2,"[Shaking and teary] I’m really embarrassed . . . I kind of lied to you about what I thought
+I could handle in here. I didn’t want to disappoint you or make you feel like this is a waste
+of time."
+338,ex07_7_m_2,"[Shaking and teary] I’m really embarrassed . . . I kind of lied to you about what I thought
+I could handle in here. I didn’t want to disappoint you or make you feel like this is a waste
+of time."
+339,ex07_7_m_2,"[Shaking and teary] I’m really embarrassed . . . I kind of lied to you about what I thought
+I could handle in here. I didn’t want to disappoint you or make you feel like this is a waste
+of time."
+340,ex07_7_m_4,"[Shaking and weeping] This is not something I can get into without hysterically crying.
+That’s why I avoid it."
+341,ex07_7_m_4,"[Shaking and weeping] This is not something I can get into without hysterically crying.
+That’s why I avoid it."
+342,ex07_7_m_4,"[Shaking and weeping] This is not something I can get into without hysterically crying.
+That’s why I avoid it."
+343,ex07_7_m_4,"[Shaking and weeping] This is not something I can get into without hysterically crying.
+That’s why I avoid it."
+344,ex07_7_m_5,"[Head in hands, sobbing without speaking]"
+345,ex07_7_m_5,"[Head in hands, sobbing without speaking]"
+346,ex07_7_m_5,"[Head in hands, sobbing without speaking]"
+347,ex07_7_m_5,"[Head in hands, sobbing without speaking]"
+348,ex08_8_a_2,[Frustrated] I don’t think I can commit to coming here every week.
+349,ex08_8_a_2,[Frustrated] I don’t think I can commit to coming here every week.
+350,ex08_8_a_2,[Frustrated] I don’t think I can commit to coming here every week.
+351,ex08_8_a_2,[Frustrated] I don’t think I can commit to coming here every week.
+352,ex08_8_a_3,"[Depressed] I wasn’t able to do the trauma homework. I’ve been feeling more depressed
+and sleeping a lot. I’ve been late to work a few days this week."
+353,ex08_8_a_3,"[Depressed] I wasn’t able to do the trauma homework. I’ve been feeling more depressed
+and sleeping a lot. I’ve been late to work a few days this week."
+354,ex08_8_a_3,"[Depressed] I wasn’t able to do the trauma homework. I’ve been feeling more depressed
+and sleeping a lot. I’ve been late to work a few days this week."
+355,ex08_8_a_3,"[Depressed] I wasn’t able to do the trauma homework. I’ve been feeling more depressed
+and sleeping a lot. I’ve been late to work a few days this week."
+356,ex08_8_a_4,"[Excited] I found this article about a breakthrough medication for anxiety, and it seems like
+something I could try."
+357,ex08_8_a_4,"[Excited] I found this article about a breakthrough medication for anxiety, and it seems like
+something I could try."
+358,ex08_8_a_4,"[Excited] I found this article about a breakthrough medication for anxiety, and it seems like
+something I could try."
+359,ex08_8_a_4,"[Excited] I found this article about a breakthrough medication for anxiety, and it seems like
+something I could try."
+360,ex08_8_a_5,"[Hopeless] To be honest, things haven’t improved as much as I expected."
+361,ex08_8_a_5,"[Hopeless] To be honest, things haven’t improved as much as I expected."
+362,ex08_8_a_5,"[Hopeless] To be honest, things haven’t improved as much as I expected."
+363,ex08_8_a_5,"[Hopeless] To be honest, things haven’t improved as much as I expected."
+364,ex08_8_b_1,[Anxious] I’m not ready to try the next item on my exposure hierarchy.
+365,ex08_8_b_1,[Anxious] I’m not ready to try the next item on my exposure hierarchy.
+366,ex08_8_b_1,[Anxious] I’m not ready to try the next item on my exposure hierarchy.
+367,ex08_8_b_1,[Anxious] I’m not ready to try the next item on my exposure hierarchy.
+368,ex08_8_b_3,[Frustrated] I don’t like this breathing stuff. The experience monitoring was more helpful.
+369,ex08_8_b_3,[Frustrated] I don’t like this breathing stuff. The experience monitoring was more helpful.
+370,ex08_8_b_3,[Frustrated] I don’t like this breathing stuff. The experience monitoring was more helpful.
+371,ex08_8_b_3,[Frustrated] I don’t like this breathing stuff. The experience monitoring was more helpful.
+372,ex08_8_b_4,[Excited] You won’t believe what happened this week!
+373,ex08_8_b_4,[Excited] You won’t believe what happened this week!
+374,ex08_8_b_4,[Excited] You won’t believe what happened this week!
+375,ex08_8_b_4,[Excited] You won’t believe what happened this week!
+376,ex08_8_b_5,"[Frustrated] I know I said I would go to the event and start a conversation with new
+people, but I only managed to say “hello” to one person."
+377,ex08_8_b_5,"[Frustrated] I know I said I would go to the event and start a conversation with new
+people, but I only managed to say “hello” to one person."
+378,ex08_8_b_5,"[Frustrated] I know I said I would go to the event and start a conversation with new
+people, but I only managed to say “hello” to one person."
+379,ex08_8_b_5,"[Frustrated] I know I said I would go to the event and start a conversation with new
+people, but I only managed to say “hello” to one person."
+380,ex08_8_m_1,"[Anxious] I know the plan was to review my monitoring, but I learned yesterday that I might
+lose my job."
+381,ex08_8_m_1,"[Anxious] I know the plan was to review my monitoring, but I learned yesterday that I might
+lose my job."
+382,ex08_8_m_1,"[Anxious] I know the plan was to review my monitoring, but I learned yesterday that I might
+lose my job."
+383,ex08_8_m_1,"[Anxious] I know the plan was to review my monitoring, but I learned yesterday that I might
+lose my job."
+384,ex08_8_m_2,"[Agitated] I’d go into what happened back then, but I know that we focus on the present
+in this therapy."
+385,ex08_8_m_2,"[Agitated] I’d go into what happened back then, but I know that we focus on the present
+in this therapy."
+386,ex08_8_m_2,"[Agitated] I’d go into what happened back then, but I know that we focus on the present
+in this therapy."
+387,ex08_8_m_2,"[Agitated] I’d go into what happened back then, but I know that we focus on the present
+in this therapy."
+388,ex08_8_m_3,"[Anxious] I guess I haven’t brought up religion in here yet; I’ve been unsure about
+doing that."
+389,ex08_8_m_3,"[Anxious] I guess I haven’t brought up religion in here yet; I’ve been unsure about
+doing that."
+390,ex08_8_m_3,"[Anxious] I guess I haven’t brought up religion in here yet; I’ve been unsure about
+doing that."
+391,ex08_8_m_3,"[Anxious] I guess I haven’t brought up religion in here yet; I’ve been unsure about
+doing that."
+392,ex08_8_m_5,"[Hopeless, after completing a progress monitoring measure] I think the scores on the
+measure you asked me to complete are consistent with my experience so far. It feels like
+things might actually be getting worse."
+393,ex08_8_m_5,"[Hopeless, after completing a progress monitoring measure] I think the scores on the
+measure you asked me to complete are consistent with my experience so far. It feels like
+things might actually be getting worse."
+394,ex08_8_m_5,"[Hopeless, after completing a progress monitoring measure] I think the scores on the
+measure you asked me to complete are consistent with my experience so far. It feels like
+things might actually be getting worse."
+395,ex08_8_m_5,"[Hopeless, after completing a progress monitoring measure] I think the scores on the
+measure you asked me to complete are consistent with my experience so far. It feels like
+things might actually be getting worse."
+396,ex08_8_m_6,"[Anxious] I’ve learned some new things. But I still feel tense all the time. I can’t have a
+conversation with anyone without lashing out. I feel on edge and still can’t really relax."
+397,ex08_8_m_6,"[Anxious] I’ve learned some new things. But I still feel tense all the time. I can’t have a
+conversation with anyone without lashing out. I feel on edge and still can’t really relax."
+398,ex08_8_m_6,"[Anxious] I’ve learned some new things. But I still feel tense all the time. I can’t have a
+conversation with anyone without lashing out. I feel on edge and still can’t really relax."
+399,ex08_8_m_6,"[Anxious] I’ve learned some new things. But I still feel tense all the time. I can’t have a
+conversation with anyone without lashing out. I feel on edge and still can’t really relax."
+400,ex09_9_a_1,"[Angry] My partner cheated on me. And, no, there is no alternative explanation, so stop
+asking that! He cheated, so our relationship was a lie!"
+401,ex09_9_a_1,"[Angry] My partner cheated on me. And, no, there is no alternative explanation, so stop
+asking that! He cheated, so our relationship was a lie!"
+402,ex09_9_a_1,"[Angry] My partner cheated on me. And, no, there is no alternative explanation, so stop
+asking that! He cheated, so our relationship was a lie!"
+403,ex09_9_a_1,"[Angry] My partner cheated on me. And, no, there is no alternative explanation, so stop
+asking that! He cheated, so our relationship was a lie!"
+404,ex09_9_a_2,"[Anxious] I did the measure you asked me to fill out. Honestly, I think I might have rated
+you lower than usual, but I’m not sure I want to talk about it."
+405,ex09_9_a_2,"[Anxious] I did the measure you asked me to fill out. Honestly, I think I might have rated
+you lower than usual, but I’m not sure I want to talk about it."
+406,ex09_9_a_2,"[Anxious] I did the measure you asked me to fill out. Honestly, I think I might have rated
+you lower than usual, but I’m not sure I want to talk about it."
+407,ex09_9_a_2,"[Anxious] I did the measure you asked me to fill out. Honestly, I think I might have rated
+you lower than usual, but I’m not sure I want to talk about it."
+408,ex09_9_a_3,"[Angry] You’re the worst. You keep asking me to interpret the situation in different ways,
+like my perspective is always wrong. It’s like you’re calling me a liar. My last therapist would
+not have called me a liar."
+409,ex09_9_a_3,"[Angry] You’re the worst. You keep asking me to interpret the situation in different ways,
+like my perspective is always wrong. It’s like you’re calling me a liar. My last therapist would
+not have called me a liar."
+410,ex09_9_a_3,"[Angry] You’re the worst. You keep asking me to interpret the situation in different ways,
+like my perspective is always wrong. It’s like you’re calling me a liar. My last therapist would
+not have called me a liar."
+411,ex09_9_a_3,"[Angry] You’re the worst. You keep asking me to interpret the situation in different ways,
+like my perspective is always wrong. It’s like you’re calling me a liar. My last therapist would
+not have called me a liar."
+412,ex09_9_a_4,"[Defeated] To be honest, I wouldn’t expect you to ever really get me."
+413,ex09_9_a_4,"[Defeated] To be honest, I wouldn’t expect you to ever really get me."
+414,ex09_9_a_4,"[Defeated] To be honest, I wouldn’t expect you to ever really get me."
+415,ex09_9_a_4,"[Defeated] To be honest, I wouldn’t expect you to ever really get me."
+416,ex09_9_b_1,"[Frustrated] Well, I’m not really sure about it, but I guess I’ll give the thought record
+another shot if you think that’s best."
+417,ex09_9_b_1,"[Frustrated] Well, I’m not really sure about it, but I guess I’ll give the thought record
+another shot if you think that’s best."
+418,ex09_9_b_1,"[Frustrated] Well, I’m not really sure about it, but I guess I’ll give the thought record
+another shot if you think that’s best."
+419,ex09_9_b_1,"[Frustrated] Well, I’m not really sure about it, but I guess I’ll give the thought record
+another shot if you think that’s best."
+420,ex09_9_b_2,"[Withdrawn] I’m not sure where to start, or what to prioritize on today’s agenda. Sorry."
+421,ex09_9_b_2,"[Withdrawn] I’m not sure where to start, or what to prioritize on today’s agenda. Sorry."
+422,ex09_9_b_2,"[Withdrawn] I’m not sure where to start, or what to prioritize on today’s agenda. Sorry."
+423,ex09_9_b_2,"[Withdrawn] I’m not sure where to start, or what to prioritize on today’s agenda. Sorry."
+424,ex09_9_b_4,"[Exasperated] I feel like you’ve been hearing me wrong since we started. You don’t seem
+to understand what I mean. Are you even listening?"
+425,ex09_9_b_4,"[Exasperated] I feel like you’ve been hearing me wrong since we started. You don’t seem
+to understand what I mean. Are you even listening?"
+426,ex09_9_b_4,"[Exasperated] I feel like you’ve been hearing me wrong since we started. You don’t seem
+to understand what I mean. Are you even listening?"
+427,ex09_9_b_4,"[Exasperated] I feel like you’ve been hearing me wrong since we started. You don’t seem
+to understand what I mean. Are you even listening?"
+428,ex09_9_b_5,"[Surprised] That was a really abrupt ending last session. I know we only have an hour,
+but I was kind of in the middle of something. That’s been on my mind ever since. I even
+considered not coming today . . . I guess I’ve been a little pissed off about it."
+429,ex09_9_b_5,"[Surprised] That was a really abrupt ending last session. I know we only have an hour,
+but I was kind of in the middle of something. That’s been on my mind ever since. I even
+considered not coming today . . . I guess I’ve been a little pissed off about it."
+430,ex09_9_b_5,"[Surprised] That was a really abrupt ending last session. I know we only have an hour,
+but I was kind of in the middle of something. That’s been on my mind ever since. I even
+considered not coming today . . . I guess I’ve been a little pissed off about it."
+431,ex09_9_b_5,"[Surprised] That was a really abrupt ending last session. I know we only have an hour,
+but I was kind of in the middle of something. That’s been on my mind ever since. I even
+considered not coming today . . . I guess I’ve been a little pissed off about it."
+432,ex09_9_m_1,"[Challenging] Are you all here today? No offense, doc, but your mind seems elsewhere."
+433,ex09_9_m_1,"[Challenging] Are you all here today? No offense, doc, but your mind seems elsewhere."
+434,ex09_9_m_1,"[Challenging] Are you all here today? No offense, doc, but your mind seems elsewhere."
+435,ex09_9_m_1,"[Challenging] Are you all here today? No offense, doc, but your mind seems elsewhere."
+436,ex09_9_m_2,"[Frustrated] Whelp, the homework was another big swing and miss. Made no sense.
+Can we not do that one again?"
+437,ex09_9_m_2,"[Frustrated] Whelp, the homework was another big swing and miss. Made no sense.
+Can we not do that one again?"
+438,ex09_9_m_2,"[Frustrated] Whelp, the homework was another big swing and miss. Made no sense.
+Can we not do that one again?"
+439,ex09_9_m_2,"[Frustrated] Whelp, the homework was another big swing and miss. Made no sense.
+Can we not do that one again?"
+440,ex09_9_m_4,"[Angry] Now you just seem to be playing a psychologist . . . like the cliché ones on TV.
+But I guess you’re the expert, so tell me what’s next please."
+441,ex09_9_m_4,"[Angry] Now you just seem to be playing a psychologist . . . like the cliché ones on TV.
+But I guess you’re the expert, so tell me what’s next please."
+442,ex09_9_m_4,"[Angry] Now you just seem to be playing a psychologist . . . like the cliché ones on TV.
+But I guess you’re the expert, so tell me what’s next please."
+443,ex09_9_m_4,"[Angry] Now you just seem to be playing a psychologist . . . like the cliché ones on TV.
+But I guess you’re the expert, so tell me what’s next please."
+444,ex09_9_m_5,"[Irritated] My mother was trying to remind me to “check in” on my thoughts and breathing
+yesterday. So annoying. People are always trying to solve my problems without possibly
+being able to understand what I’m going through."
+445,ex09_9_m_5,"[Irritated] My mother was trying to remind me to “check in” on my thoughts and breathing
+yesterday. So annoying. People are always trying to solve my problems without possibly
+being able to understand what I’m going through."
+446,ex09_9_m_5,"[Irritated] My mother was trying to remind me to “check in” on my thoughts and breathing
+yesterday. So annoying. People are always trying to solve my problems without possibly
+being able to understand what I’m going through."
+447,ex09_9_m_5,"[Irritated] My mother was trying to remind me to “check in” on my thoughts and breathing
+yesterday. So annoying. People are always trying to solve my problems without possibly
+being able to understand what I’m going through."
+448,ex10_10_a_1,"[Withdrawn] Honestly, I don’t know about CBT . . . almost seems a bit condescending."
+449,ex10_10_a_1,"[Withdrawn] Honestly, I don’t know about CBT . . . almost seems a bit condescending."
+450,ex10_10_a_1,"[Withdrawn] Honestly, I don’t know about CBT . . . almost seems a bit condescending."
+451,ex10_10_a_1,"[Withdrawn] Honestly, I don’t know about CBT . . . almost seems a bit condescending."
+452,ex10_10_a_2,"[Angry] You seem so concerned with just finishing what’s on your list before time runs out.
+I feel like I’m just a plug-and-play client!"
+453,ex10_10_a_2,"[Angry] You seem so concerned with just finishing what’s on your list before time runs out.
+I feel like I’m just a plug-and-play client!"
+454,ex10_10_a_2,"[Angry] You seem so concerned with just finishing what’s on your list before time runs out.
+I feel like I’m just a plug-and-play client!"
+455,ex10_10_a_2,"[Angry] You seem so concerned with just finishing what’s on your list before time runs out.
+I feel like I’m just a plug-and-play client!"
+456,ex10_10_a_3,"[Angry] Honestly, I just don’t see how you can help me. I mean, sure, if I had your life
+maybe I could sit around and relax at the end of everyday too, but I don’t! In my life, I don’t
+get to relax. So, I just don’t see how you’re going to be able to fix that for me."
+457,ex10_10_a_3,"[Angry] Honestly, I just don’t see how you can help me. I mean, sure, if I had your life
+maybe I could sit around and relax at the end of everyday too, but I don’t! In my life, I don’t
+get to relax. So, I just don’t see how you’re going to be able to fix that for me."
+458,ex10_10_a_3,"[Angry] Honestly, I just don’t see how you can help me. I mean, sure, if I had your life
+maybe I could sit around and relax at the end of everyday too, but I don’t! In my life, I don’t
+get to relax. So, I just don’t see how you’re going to be able to fix that for me."
+459,ex10_10_a_3,"[Angry] Honestly, I just don’t see how you can help me. I mean, sure, if I had your life
+maybe I could sit around and relax at the end of everyday too, but I don’t! In my life, I don’t
+get to relax. So, I just don’t see how you’re going to be able to fix that for me."
+460,ex10_10_a_5,"[Angry] Actually, no, I don’t want to set an agenda. I don’t think that I want to keep doing
+this stuff. I just don’t see the point!"
+461,ex10_10_a_5,"[Angry] Actually, no, I don’t want to set an agenda. I don’t think that I want to keep doing
+this stuff. I just don’t see the point!"
+462,ex10_10_a_5,"[Angry] Actually, no, I don’t want to set an agenda. I don’t think that I want to keep doing
+this stuff. I just don’t see the point!"
+463,ex10_10_a_5,"[Angry] Actually, no, I don’t want to set an agenda. I don’t think that I want to keep doing
+this stuff. I just don’t see the point!"
+464,ex10_10_b_1,"[Anxious] I really want to try testing some of my assumptions about what people think of
+me, but I’m just not sure I’m ready."
+465,ex10_10_b_1,"[Anxious] I really want to try testing some of my assumptions about what people think of
+me, but I’m just not sure I’m ready."
+466,ex10_10_b_1,"[Anxious] I really want to try testing some of my assumptions about what people think of
+me, but I’m just not sure I’m ready."
+467,ex10_10_b_1,"[Anxious] I really want to try testing some of my assumptions about what people think of
+me, but I’m just not sure I’m ready."
+468,ex10_10_b_2,"[Pessimistic] I know I agreed to this approach, and I understand what we’re trying to do
+here, but I’m starting to doubt it’s a good fit."
+469,ex10_10_b_2,"[Pessimistic] I know I agreed to this approach, and I understand what we’re trying to do
+here, but I’m starting to doubt it’s a good fit."
+470,ex10_10_b_2,"[Pessimistic] I know I agreed to this approach, and I understand what we’re trying to do
+here, but I’m starting to doubt it’s a good fit."
+471,ex10_10_b_2,"[Pessimistic] I know I agreed to this approach, and I understand what we’re trying to do
+here, but I’m starting to doubt it’s a good fit."
+472,ex10_10_b_3,"[Reluctant] I have to admit to not doing the homework. I don’t think I “distort” my
+thoughts any more than the next person, so the assignment seemed a bit, well, silly—
+pardon my bluntness."
+473,ex10_10_b_3,"[Reluctant] I have to admit to not doing the homework. I don’t think I “distort” my
+thoughts any more than the next person, so the assignment seemed a bit, well, silly—
+pardon my bluntness."
+474,ex10_10_b_3,"[Reluctant] I have to admit to not doing the homework. I don’t think I “distort” my
+thoughts any more than the next person, so the assignment seemed a bit, well, silly—
+pardon my bluntness."
+475,ex10_10_b_3,"[Reluctant] I have to admit to not doing the homework. I don’t think I “distort” my
+thoughts any more than the next person, so the assignment seemed a bit, well, silly—
+pardon my bluntness."
+476,ex10_10_b_5,"[Ambivalent] Well, I went to do the homework, but then it occurred to me that I shouldn’t
+try to reduce my worry too much. I mean it’s stressful, but there are times it actually helps
+me stay on top of things . . . to be accountable."
+477,ex10_10_b_5,"[Ambivalent] Well, I went to do the homework, but then it occurred to me that I shouldn’t
+try to reduce my worry too much. I mean it’s stressful, but there are times it actually helps
+me stay on top of things . . . to be accountable."
+478,ex10_10_b_5,"[Ambivalent] Well, I went to do the homework, but then it occurred to me that I shouldn’t
+try to reduce my worry too much. I mean it’s stressful, but there are times it actually helps
+me stay on top of things . . . to be accountable."
+479,ex10_10_b_5,"[Ambivalent] Well, I went to do the homework, but then it occurred to me that I shouldn’t
+try to reduce my worry too much. I mean it’s stressful, but there are times it actually helps
+me stay on top of things . . . to be accountable."
+480,ex10_10_m_1,"[Assertive] I do feel bad for missing sessions. I need to be in therapy. I need to get this
+stress under control. I just don’t think we’ve attacked it the right way."
+481,ex10_10_m_1,"[Assertive] I do feel bad for missing sessions. I need to be in therapy. I need to get this
+stress under control. I just don’t think we’ve attacked it the right way."
+482,ex10_10_m_1,"[Assertive] I do feel bad for missing sessions. I need to be in therapy. I need to get this
+stress under control. I just don’t think we’ve attacked it the right way."
+483,ex10_10_m_1,"[Assertive] I do feel bad for missing sessions. I need to be in therapy. I need to get this
+stress under control. I just don’t think we’ve attacked it the right way."
+484,ex10_10_m_2,"[Sad] I guess I’m feeling hopeless. A part of me wants to change, but another part is afraid
+of who I’ll be if I change too much."
+485,ex10_10_m_2,"[Sad] I guess I’m feeling hopeless. A part of me wants to change, but another part is afraid
+of who I’ll be if I change too much."
+486,ex10_10_m_2,"[Sad] I guess I’m feeling hopeless. A part of me wants to change, but another part is afraid
+of who I’ll be if I change too much."
+487,ex10_10_m_2,"[Sad] I guess I’m feeling hopeless. A part of me wants to change, but another part is afraid
+of who I’ll be if I change too much."
+488,ex10_10_m_4,"[Angry] I mean, of course, relaxation would be nice, but who can shut off their mind like
+that? I’m not even sure I’d want to . . . I might just end up lazy and complacent! I don’t
+know . . . it’s so frustrating."
+489,ex10_10_m_4,"[Angry] I mean, of course, relaxation would be nice, but who can shut off their mind like
+that? I’m not even sure I’d want to . . . I might just end up lazy and complacent! I don’t
+know . . . it’s so frustrating."
+490,ex10_10_m_4,"[Angry] I mean, of course, relaxation would be nice, but who can shut off their mind like
+that? I’m not even sure I’d want to . . . I might just end up lazy and complacent! I don’t
+know . . . it’s so frustrating."
+491,ex10_10_m_4,"[Angry] I mean, of course, relaxation would be nice, but who can shut off their mind like
+that? I’m not even sure I’d want to . . . I might just end up lazy and complacent! I don’t
+know . . . it’s so frustrating."
+492,ex10_10_m_5,"[Relieved] I’m glad you could see my reluctance about cognitive behavioral therapy! I think
+it started to feel more like a class than a treatment, which was unhelpful. I do want to work
+on feeling better—and thinking better [laughs]—but sometimes I don’t have a clear agenda
+or direction. In those times, just taking some space to talk freely helps me a lot."
+493,ex10_10_m_5,"[Relieved] I’m glad you could see my reluctance about cognitive behavioral therapy! I think
+it started to feel more like a class than a treatment, which was unhelpful. I do want to work
+on feeling better—and thinking better [laughs]—but sometimes I don’t have a clear agenda
+or direction. In those times, just taking some space to talk freely helps me a lot."
+494,ex10_10_m_5,"[Relieved] I’m glad you could see my reluctance about cognitive behavioral therapy! I think
+it started to feel more like a class than a treatment, which was unhelpful. I do want to work
+on feeling better—and thinking better [laughs]—but sometimes I don’t have a clear agenda
+or direction. In those times, just taking some space to talk freely helps me a lot."
+495,ex10_10_m_5,"[Relieved] I’m glad you could see my reluctance about cognitive behavioral therapy! I think
+it started to feel more like a class than a treatment, which was unhelpful. I do want to work
+on feeling better—and thinking better [laughs]—but sometimes I don’t have a clear agenda
+or direction. In those times, just taking some space to talk freely helps me a lot."
